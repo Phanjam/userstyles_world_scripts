@@ -1,0 +1,103 @@
+/* "URLs on the domain dynalist.io" */
+
+/* color tags starting with "#" */
+/* ---------------------------- */
+
+  .node-tag[title*="Filter #"]
+  {
+    /* background-color: #71E6EB!important;
+    color: #000 !important; */
+    background-color: #71e6eb00 !important;
+    color: #46aefc !important;
+    font-weight: bold;
+  }
+
+/* color tags starting with "@" */
+/* ---------------------------- */
+
+  .node-tag[title*="Filter @"]
+  {
+    background-color: #74563F00!important;
+    color: #78924E !important;
+    font-weight: bold;
+  }
+
+/* colors for specific tags */
+/* ------------------------ */
+
+  .node-tag[title~="@ecg"]
+  {
+    background: red !important;
+    color: yellow !important;
+    font-weight: bold !important;
+    text-decoration: none !important;
+  }
+
+  .node-tag[title~="#todo"]
+  {
+    background: green !important;
+    color: white !important;
+    font-weight: bold !important;
+    text-decoration: none !important;
+  }
+
+  .node-tag[title~="#now"]
+  {
+    background: red !important;
+    color: white !important;
+    font-weight: bold !important;
+    text-decoration: none !important;
+  }
+
+  .node-tag[title~="#impt"]
+  {
+    background: #FF5D00 !important;
+    color: black !important;
+    font-weight: bold !important;
+    text-decoration: none !important;
+  }
+
+  .node-tag[title~="#flwup"]
+  {
+    background: #0171bb !important;
+    color: white !important;
+    font-weight: bold !important;
+    text-decoration: none !important;
+  }
+
+/* hyperlinks */
+/* ---------- */
+
+  .node-link
+  {
+    word-wrap: break-word !important;
+    /* font-size: 0.8em; */
+    color: #0085C8 !important;
+    text-decoration: none !important;
+    cursor: pointer !important;
+    background: transparent !important;
+  }
+
+/* code blocks */
+/* ----------- */
+
+  .node-inline-code
+  {
+    color: #cdcdcd;
+    background-color: #656565;
+    font-family: courier;
+    font-size: 1em;
+  }
+
+/* checked items appearance */
+  .Node.is-checked .node-link,
+  .Node.is-checked .node-tag,
+  .Node.is-checked .node-time,
+  .Node.is-checked .Node-content,
+  .Node.is-checked .Node-renderedContent,
+  .Node.is-checked
+  {
+    color: #626262;
+    /* text-decoration: none !important; */
+    font-style: oblique !important;
+  }
