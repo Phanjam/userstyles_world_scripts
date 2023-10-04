@@ -1,3 +1,14 @@
+/* ==Userstyle==
+@name         Dynalist Tweaks
+@namespace    dynalist.io
+@version      1.0
+@description  
+@author       
+==Userstyle== */
+
+@-moz-document domain(exmple.com) {
+    /**
+
 /* "URLs on the domain dynalist.io" */
 
 /* color tags starting with "#" */
@@ -101,3 +112,4 @@
     /* text-decoration: none !important; */
     font-style: oblique !important;
   }
+}
