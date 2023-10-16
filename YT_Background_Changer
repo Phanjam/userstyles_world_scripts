@@ -1,0 +1,54 @@
+/* urls on the domain youtube.com */
+
+#page-manager > ytd-watch , ytd-app, div#columns.style-scope.ytd-watch-flexy , ytd-app, ytd-watch-flexy.style-scope.ytd-page-manager.hide-skeleton {
+/*
+https://i.imgur.com/muEE7PX.jpg
+https://i.imgur.com/BN1bfkb.gif
+https://i.imgur.com/jxB4gZ4.gif
+https://i.imgur.com/Tq9L4kr.gif
+https://i.imgur.com/je5c9no.gif
+https://i.imgur.com/as0f1NG.gif
+https://thumbs.gfycat.com/EarlyCleanIrukandjijellyfish-max-1mb.gif
+https://thumbs.gfycat.com/PleasedInfatuatedCat-size_restricted.gif
+https://cutewallpaper.org/21/animation-wallpaper-for-pc/Animated-GIFs-for-use-in-wallpapers.gif
+https://i.pinimg.com/originals/04/e5/17/04e517f6c5a7e9bdde408f2180af3475.gif
+https://i.pinimg.com/originals/f3/f4/cc/f3f4ccdebad8a85ed48b1375587c0fd9.gif
+https://i.makeagif.com/media/5-15-2019/Y2bkMs.gif
+https://i.pinimg.com/originals/7a/d0/c9/7ad0c9b192167fbeac6f53ff97a656df.gif
+https://wallpapercave.com/wp/wp2758145.gif
+https://images.squarespace-cdn.com/content/v1/588b0c9115d5dbbd78c854a0/1489418574325-S4EW2T46COVYFOBRM0A7/ke17ZwdGBToddI8pDm48kNvT88LknE-K9M4pGNO0Iqd7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UU_i9-ln4sAC0TGEmkfMFKJn5Kcyb6Y0O9dBHu3N61jtpC969RuPXvt2ZwyzUXQf7Q/WAVE-1s.gif
+https://i.imgur.com/Jy3gtTc.gif
+https://i.pinimg.com/originals/7e/3f/53/7e3f53c472c6e43a149703c77473a239.gif
+https://i.imgur.com/pLvqkk4.gif
+https://i.pinimg.com/originals/a7/00/e8/a700e868c450e35ef735e7a2ddc3191d.gif
+https://peacefulmale.files.wordpress.com/2013/07/spectral.gif
+https://i.pinimg.com/originals/7e/75/bf/7e75bf2d29ec749ff78a4e0722962801.gif
+https://i.pinimg.com/originals/b6/3e/83/b63e839789c7a7c80c3ebb4ec3cb26ff.gif
+https://media4.giphy.com/media/J1XfZvlK4SJmQh6Ve1/giphy.gif?cid=ecf05e47431eywnt6qe1honfjijl0q12k9330xgdaq9wclyh&rid=giphy.gif
+https://media1.giphy.com/media/RIRfOV5PxmQyNSFfuX/giphy.gif
+https://media4.giphy.com/media/iH81vILD7McsHTEiwx/giphy.gif
+https://media3.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif
+https://media2.giphy.com/media/Upbaenz0swDXq/giphy.gif
+https://media1.giphy.com/media/84SFZf1BKgzeny1WxQ/giphy.gif
+https://media0.giphy.com/media/x45I8CY1Vs45G/giphy.gif
+https://media3.giphy.com/media/NKEt9elQ5cR68/giphy.gif
+https://i.imgur.com/aHGIwms.gif
+https://i.imgur.com/ASYd6Q9.gif
+https://i.imgur.com/Ckp5v6q.gif
+https://i.imgur.com/DGRZFtk.gif
+https://i.imgur.com/elwcj3J.gif
+https://i.imgur.com/zFtmdmO.gif (pizza!)
+https://i.imgur.com/QFcqCIq.gif
+https://i.imgur.com/Eo5I31m.gif
+https://i.imgur.com/zFtmdmO.gif
+https://i.imgur.com/j3bWtaA.jpg
+https://i.imgur.com/Oitx709.png
+https://i.imgur.com/x1uiPAn.gif (waterfall)
+https://i.imgur.com/ABAJgnp.gifv (above clouds)
+https://i.imgur.com/LHrlkvc.gifv (tunnel)
+https://i.imgur.com/72NyPrw.gifv (rainy patio)
+*/
+     background-image: url("https://i.imgur.com/x1uiPAn.gif") !important;
+     background-attachment: fixed !important;
+     background-size: cover !important;
+}
